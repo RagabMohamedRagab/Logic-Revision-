@@ -45,4 +45,20 @@ namespace Revision
         }
     }
 }
+/***********Notes*******************/
+/*
+And Also :
+1-String.Equals(str1,str2)
+  Her!
+    :Compare Between Values Not Reference,But Compare Between Reference In Custome Type(Objects)
 
+2-String.ReferenceEquals(str1,str2)
+   Her!
+      ::Compare Between Values Not Reference,But Compare Between Reference In Custome Type(Objects)
+*/
+/***********Notes*******************/
+// Output
+/*************************/
+// True
+// Press Any Key To Continue . . .
+/************************/
