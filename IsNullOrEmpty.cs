@@ -23,3 +23,13 @@ namespace Revision
     }
 }
 
+/*****Notes********/
+/*
+  String.IsNullOrWhiteSapce()
+  Her!
+   :Test String Is Null Or Empty=>("")
+*/
+/******************/
+/*****OutPut*****/
+// True
+/*****************/
