@@ -1,1 +1,1 @@
-Logic String.Compare
+Logic Of Method
